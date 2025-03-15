@@ -1,4 +1,4 @@
-## Salut! 👋
+## Salut! <a><img src="wave.gif" width="20px" height="20px" /></a>
 
 ---
 
